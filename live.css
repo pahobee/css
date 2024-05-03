@@ -1,3 +1,9 @@
 .v-list-item__subtitle, .v-list-item__title {
     text-overflow: inherit!important;
 }/* Add all your CSS here and save the file */
+
+.v-text-field {
+    border-radius: 6px!important;
+    border-style: solid!important;
+}
+
